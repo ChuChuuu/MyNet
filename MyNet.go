@@ -1,4 +1,4 @@
-package github.com/ChuChuuu/MyNet
+package MyNet
 
 /*
 #include <stdio.h>
