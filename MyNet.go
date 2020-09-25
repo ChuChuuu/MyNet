@@ -1,4 +1,5 @@
 package github.com/ChuChuuu/MyNet
+
 /*
 #include <stdio.h>
 #include <stdlib.h>
